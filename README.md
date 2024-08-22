@@ -13,3 +13,11 @@ Questo repository contiene uno script Python che esegue il web scraping di un si
 - **Identificazione e pulizia di URL**: Estrae e pulisce gli URL specifici dalle pagine di supporto.
 - **Formattazione delle domande**: Converte i titoli delle domande in un formato leggibile.
 - **Estrazione delle risposte**: Raccoglie le risposte associate e le salva in un file di output.
+
+# Come eseguire lo script:
+- Importare le dipendenze:
+  +- requests
+  +- beautifulsoup4
+- Creare i due file presenti nel repo
+- Creare il file dello script
+Enojy ;)
