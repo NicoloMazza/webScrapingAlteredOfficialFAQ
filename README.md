@@ -15,9 +15,7 @@ Questo repository contiene uno script Python che esegue il web scraping di un si
 - **Estrazione delle risposte**: Raccoglie le risposte associate e le salva in un file di output.
 
 # Come eseguire lo script:
-- Importare le dipendenze:
-  +- requests
-  +- beautifulsoup4
+- Importare le dipendenze: requests, beautifulsoup4
 - Creare i due file presenti nel repo
 - Creare il file dello script
 Enojy ;)
