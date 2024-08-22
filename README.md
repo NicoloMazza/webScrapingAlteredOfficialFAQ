@@ -18,4 +18,4 @@ Questo repository contiene uno script Python che esegue il web scraping di un si
 - Importare le dipendenze: requests, beautifulsoup4
 - Creare i due file presenti nel repo
 - Creare il file dello script
-- Enojy ;)
+- Enjoy ;)
