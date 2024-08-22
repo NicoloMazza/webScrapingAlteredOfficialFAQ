@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+
+<html dir="ltr" lang="en-US">
+<head>
+<meta charset="utf-8"/>
+<!-- v24907 -->
+<title>I’m still a bit skeptical… got anything else to say? – Altered TCG - Explore the Unexpected</title>
+<meta content="Why not join us on social media, particularly on our Discord server? There you can see how our community is already reacting to the game,..." name="description"/><meta content="https:/hc/theming_assets/01J3F991AGXJQFYYZ8X8DT8VQJ" property="og:image"/>
+<meta content="website" property="og:type"/>
+<meta content="Altered TCG - Explore the Unexpected" property="og:site_name"/>
+<meta content="I’m still a bit skeptical… got anything else to say?" property="og:title"/>
+<meta content="Why not join us on social media, particularly on our Discord server? There you can see how our community is already reacting to the game, and even chat with us directly. You can also ask Asmodee to..." property="og:description"/>
+<meta content="https://support.altered.gg/hc/en-us/articles/20211396886162-I-m-still-a-bit-skeptical-got-anything-else-to-say" property="og:url"/>
+<link href="https://support.altered.gg/hc/en-us/articles/20211396886162-I-m-still-a-bit-skeptical-got-anything-else-to-say" rel="canonical"/>
+<link href="https://support.altered.gg/hc/en-us/articles/20211396886162-I-m-still-a-bit-skeptical-got-anything-else-to-say" hreflang="en-us" rel="alternate"/>
+<link href="https://support.altered.gg/hc/en-us/articles/20211396886162-I-m-still-a-bit-skeptical-got-anything-else-to-say" hreflang="x-default" rel="alternate"/>
+<link href="//static.zdassets.com/hc/assets/application-a42a464885a505c24ac3b0ab35047489.css" id="stylesheet" media="all" rel="stylesheet">
+<link href="/hc/theming_assets/19867532/16711686822674/style.css?digest=20317095476498" rel="stylesheet" type="text/css"/>
+<link href="/hc/theming_assets/01J3F991AGXJQFYYZ8X8DT8VQJ" rel="icon" type="image/x-icon"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<!-- Make the translated search clear button label available for use in JS -->
+<!-- See buildClearSearchButton() in script.js -->
+<script type="text/javascript">window.searchClearButtonLabelLocalized = "Clear search";</script>
+<script type="importmap">
+{
+  "imports": {
+    "new-request-form": "/hc/theming_assets/01J30975VDH5HHW6T80HXQ4ECR",
+    "flash-notifications": "/hc/theming_assets/01J30975Q3CYDETVYG0NPFM97D",
+    "new-request-form-translations": "/hc/theming_assets/01J30975YFBV0AKFCPMX53MH93",
+    "shared": "/hc/theming_assets/01J3097606V3DMZFN4YKX1BW0D",
+    "wysiwyg": "/hc/theming_assets/01J309764Z5HXQ6D0VDRFX1GPZ"
+  }
+}
+</script>
+<script type="module">
+  import { renderFlashNotifications } from "flash-notifications";
+
+  const settings = {"brand_color":"rgba(3, 137, 190, 1)","brand_text_color":"#FFFFFF","text_color":"#2F3941","link_color":"#1F73B7","hover_link_color":"#0F3554","visited_link_color":"#9358B0","background_color":"#FFFFFF","heading_font":"-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif","text_font":"-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif","logo":"/hc/theming_assets/01J3F991AGXJQFYYZ8X8DT8VQJ","show_brand_name":true,"favicon":"/hc/theming_assets/01J3F991AGXJQFYYZ8X8DT8VQJ","homepage_background_image":"/hc/theming_assets/01J32HCYHE8C3TZB8Z08HY2G0F","community_background_image":"/hc/theming_assets/01J32FTNN2X2JHEEEESGNERNTJ","community_image":"/hc/theming_assets/01J32FDFS50MRVMSTQ3Z51DEB1","instant_search":true,"scoped_kb_search":true,"scoped_community_search":true,"show_recent_activity":true,"show_articles_in_section":true,"show_article_author":true,"show_article_comments":true,"show_follow_article":true,"show_recently_viewed_articles":true,"show_related_articles":true,"show_article_sharing":true,"show_follow_section":true,"show_follow_post":true,"show_post_sharing":true,"show_follow_topic":true,"request_list_beta":false};
+  const closeLabel = "Close"
+
+  renderFlashNotifications(settings, closeLabel);
+</script>
+</link></head>
+<body class="">
+<a class="skip-navigation" href="#main-content" tabindex="1">Skip to main content</a>
+<header class="header">
+<div class="logo">
+<!-- Make the logo a link to the specified URL -->
+<a href="https://www.altered.gg/">
+<img alt="Logo" src="/hc/theming_assets/01J3F991AGXJQFYYZ8X8DT8VQJ"/>
+</a>
+<!-- Optional brand name display -->
+<!-- New Help Center link placed to the right of the logo -->
+<a href="https://support.altered.gg/hc/" style="font-weight: bold; color: black; margin-left: 15px; align-self: center;">Help Center</a>
+</div>
+<div class="nav-wrapper-desktop">
+<nav aria-label="User navigation" class="user-nav" id="user-nav">
+<ul class="user-nav-list">
+<li></li>
+<li><a class="submit-a-request" href="/hc/en-us/requests/new">Submit a request</a></li>
+<li>
+<a class="sign-in" data-auth-action="signin" href="/hc/en-us/signin?return_to=https%3A%2F%2Fsupport.altered.gg%2Fhc%2Fen-us%2Farticles%2F20211396886162-I-m-still-a-bit-skeptical-got-anything-else-to-say" rel="nofollow" role="button" title="Opens a dialog">
+              Sign in
+            </a>
+</li>
+</ul>
+</nav>
+</div>
+<div class="nav-wrapper-mobile">
+<button aria-controls="user-nav-mobile" aria-expanded="false" aria-label="Toggle navigation menu" class="menu-button-mobile">
+<svg class="icon-menu" focusable="false" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
+<path d="M1.5 3.5h13m-13 4h13m-13 4h13" fill="none" stroke="currentColor" stroke-linecap="round"></path>
+</svg>
+</button>
+<nav aria-expanded="false" class="menu-list-mobile" id="user-nav-mobile">
+<ul class="menu-list-mobile-items">
+<li class="item">
+<a data-auth-action="signin" href="/hc/en-us/signin?return_to=https%3A%2F%2Fsupport.altered.gg%2Fhc%2Fen-us%2Farticles%2F20211396886162-I-m-still-a-bit-skeptical-got-anything-else-to-say" rel="nofollow" role="button" title="Opens a dialog">
+              Sign in
+            </a>
+</li>
+<li class="nav-divider"></li>
+<li class="item"></li>
+<li class="item"><a class="submit-a-request" href="/hc/en-us/requests/new" role="menuitem">Submit a request</a></li>
+<li class="nav-divider"></li>
+</ul>
+</nav>
+</div>
+</header>
+<main role="main">
+<div class="container-divider"></div>
+<div class="container">
+<div class="sub-nav">
+<nav aria-label="Current location">
+<ol class="breadcrumbs">
+<li>
+<a href="/hc/en-us">Altered TCG - Explore the Unexpected</a>
+</li>
+<li>
+<a href="/hc/en-us/sections/20208161438866-RETAILERS">RETAILERS</a>
+</li>
+</ol>
+</nav>
+<div class="search-container">
+<svg aria-hidden="true" class="search-icon" focusable="false" height="12" viewbox="0 0 12 12" width="12" xmlns="http://www.w3.org/2000/svg">
+<circle cx="4.5" cy="4.5" fill="none" r="4" stroke="currentColor"></circle>
+<path d="M11 11L7.5 7.5" stroke="currentColor" stroke-linecap="round"></path>
+</svg>
+<form accept-charset="UTF-8" action="/hc/en-us/search" class="search" data-search="" method="get" role="search"><input autocomplete="off" name="utf8" type="hidden" value="✓"/><input autocomplete="off" id="category" name="category" type="hidden" value="20206141703698"/>
+<input aria-label="Search" id="query" name="query" placeholder="Search" type="search"/></form>
+</div>
+</div>
+<div class="article-container" id="article-container">
+<aside aria-labelledby="section-articles-title" class="article-sidebar">
+<div class="collapsible-sidebar">
+<button aria-expanded="false" aria-labelledby="section-articles-title" class="collapsible-sidebar-toggle" type="button">
+<svg aria-hidden="true" class="collapsible-sidebar-toggle-icon chevron-icon" focusable="false" height="20" viewbox="0 0 12 12" width="20" xmlns="http://www.w3.org/2000/svg">
+<path d="M3 4.5l2.6 2.6c.2.2.5.2.7 0L9 4.5" fill="none" stroke="currentColor" stroke-linecap="round"></path>
+</svg>
+<svg aria-hidden="true" class="collapsible-sidebar-toggle-icon x-icon" focusable="false" height="20" viewbox="0 0 12 12" width="20" xmlns="http://www.w3.org/2000/svg">
+<path d="M3 9l6-6m0 6L3 3" stroke="currentColor" stroke-linecap="round"></path>
+</svg>
+</button>
+<span class="collapsible-sidebar-title sidenav-title" id="section-articles-title">
+            Articles in this section
+          </span>
+<div class="collapsible-sidebar-body">
+<ul>
+<li>
+<a class="sidenav-item" href="/hc/en-us/articles/20211292482194-How-can-I-order-the-game">
+                       How can I order the game?
+                  </a>
+</li>
+<li>
+<a class="sidenav-item" href="/hc/en-us/articles/20211324886418-How-will-you-help-me-and-my-business">
+                       How will you help me and my business?
+                  </a>
+</li>
+<li>
+<a class="sidenav-item" href="/hc/en-us/articles/20211342524562-Is-Equinox-going-to-sell-cards-boosters-digital-boosters-etc">
+                       Is Equinox going to sell cards, boosters, digital boosters, etc.?
+                  </a>
+</li>
+<li>
+<a class="sidenav-item" href="/hc/en-us/articles/20211372019346-What-about-the-secondhand-market-How-will-it-work-for-me">
+                       What about the secondhand market? How will it work for me?
+                  </a>
+</li>
+<li>
+<a class="sidenav-item" href="/hc/en-us/articles/20211362363794-What-if-I-want-to-sell-cards-over-the-counter-and-not-use-your-marketplace-to-avoid-fees-for-example">
+                       What if I want to sell cards over the counter and not use your marketplace? (to avoid fees, for example)
+                  </a>
+</li>
+<li>
+<a class="sidenav-item" href="/hc/en-us/articles/20211378281746-Why-would-someone-buy-products-from-me-when-they-can-just-print-everything">
+                       Why would someone buy products from me when they can just print everything?
+                  </a>
+</li>
+<li>
+<a aria-current="page" class="sidenav-item current-article" href="/hc/en-us/articles/20211396886162-I-m-still-a-bit-skeptical-got-anything-else-to-say">
+                       I’m still a bit skeptical… got anything else to say?
+                  </a>
+</li>
+</ul>
+</div>
+</div>
+</aside>
+<article class="article" id="main-content">
+<header class="article-header">
+<h1 class="article-title" title="I’m still a bit skeptical… got anything else to say?">
+          I’m still a bit skeptical… got anything else to say?
+          
+        </h1>
+<div class="article-author">
+<div class="avatar article-avatar">
+<img alt="" class="user-avatar" src="https://assets.zendesk.com/hc/assets/default_avatar.png"/>
+</div>
+<div class="article-meta">
+            
+              
+                Karim
+              
+            
+
+            <div class="meta-group">
+<span class="meta-data"><time data-datetime="relative" datetime="2024-07-17T15:19:07Z" title="2024-07-17T15:19:07Z">July 17, 2024 15:19</time></span>
+<span class="meta-data">Updated</span>
+</div>
+</div>
+</div>
+<div class="article-subscribe"><div data-helper="subscribe" data-json='{"item":"article","url":"/hc/en-us/articles/20211396886162-I-m-still-a-bit-skeptical-got-anything-else-to-say/subscription.json","follow_label":"Follow","unfollow_label":"Unfollow","following_label":"Following","can_subscribe":true,"is_subscribed":false}'></div></div>
+</header>
+<section class="article-info">
+<div class="article-content">
+<div class="article-body"><p><span data-sheets-root="1" style="font-size: 10pt; font-family: Arial; font-style: normal;">Why not join us on social media, particularly on our Discord server? There you can see how our community is already reacting to the game, and even chat with us directly. <br/>You can also ask Asmodee to connect you with one of the many retailers already on board and have a discussion with them. <br/>In addition, you can download the Print and Play version of the game and try it out for yourself. <br/>There is already a wealth of very positive content about Altered available on YouTube.</span></p></div>
+</div>
+</section>
+<footer>
+<div class="article-footer">
+<div class="article-share">
+<ul class="share">
+<li>
+<a aria-label="Facebook" class="share-facebook" href="https://www.facebook.com/share.php?title=I%E2%80%99m+still+a+bit+skeptical%E2%80%A6+got+anything+else+to+say%3F&amp;u=https%3A%2F%2Fsupport.altered.gg%2Fhc%2Fen-us%2Farticles%2F20211396886162-I-m-still-a-bit-skeptical-got-anything-else-to-say">
+<svg aria-label="Share this page on Facebook" focusable="false" height="12" viewbox="0 0 12 12" width="12" xmlns="http://www.w3.org/2000/svg">
+<path d="M6 0a6 6 0 01.813 11.945V7.63h1.552l.244-1.585H6.812v-.867c0-.658.214-1.242.827-1.242h.985V2.55c-.173-.024-.538-.075-1.23-.075-1.444 0-2.29.767-2.29 2.513v1.055H3.618v1.585h1.484v4.304A6.001 6.001 0 016 0z" fill="currentColor"></path>
+</svg>
+</a>
+</li>
+<li>
+<a aria-label="X Corp" class="share-twitter" href="https://twitter.com/share?lang=en&amp;text=I%E2%80%99m+still+a+bit+skeptical%E2%80%A6+got+anything+else+to+say%3F&amp;url=https%3A%2F%2Fsupport.altered.gg%2Fhc%2Fen-us%2Farticles%2F20211396886162-I-m-still-a-bit-skeptical-got-anything-else-to-say">
+<svg aria-label="Share this page on X Corp" focusable="false" height="12" viewbox="0 0 12 12" width="12" xmlns="http://www.w3.org/2000/svg">
+<path d="M.0763914 0 3.60864 0 6.75369 4.49755 10.5303 0 11.6586 0 7.18498 5.11431 12 12 8.46775 12 5.18346 7.30333 1.12825 12 0 12 4.7531 6.6879z" fill="currentColor"></path>
+</svg>
+</a>
+</li>
+<li>
+<a aria-label="LinkedIn" class="share-linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;source=Altered+TCG+-+Explore+the+Unexpected&amp;title=I%E2%80%99m+still+a+bit+skeptical%E2%80%A6+got+anything+else+to+say%3F&amp;url=https%3A%2F%2Fsupport.altered.gg%2Fhc%2Fen-us%2Farticles%2F20211396886162-I-m-still-a-bit-skeptical-got-anything-else-to-say">
+<svg aria-label="Share this page on LinkedIn" focusable="false" height="12" viewbox="0 0 12 12" width="12" xmlns="http://www.w3.org/2000/svg">
+<path d="M10.8 0A1.2 1.2 0 0112 1.2v9.6a1.2 1.2 0 01-1.2 1.2H1.2A1.2 1.2 0 010 10.8V1.2A1.2 1.2 0 011.2 0h9.6zM8.09 4.356a1.87 1.87 0 00-1.598.792l-.085.133h-.024v-.783H4.676v5.727h1.778V7.392c0-.747.142-1.47 1.068-1.47.913 0 .925.854.925 1.518v2.785h1.778V7.084l-.005-.325c-.05-1.38-.456-2.403-2.13-2.403zm-4.531.142h-1.78v5.727h1.78V4.498zm-.89-2.846a1.032 1.032 0 100 2.064 1.032 1.032 0 000-2.064z" fill="currentColor"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="article-votes">
+<h2 class="article-votes-question" id="article-votes-label">Was this article helpful?</h2>
+<div aria-labelledby="article-votes-label" class="article-votes-controls" role="group">
+<button aria-label="This article was helpful" aria-pressed="false" class="button article-vote article-vote-up" data-auth-action="signin" type="button">Yes</button>
+<button aria-label="This article was not helpful" aria-pressed="false" class="button article-vote article-vote-down" data-auth-action="signin" type="button">No</button>
+</div>
+<small class="article-votes-count">
+<span class="article-vote-label">0 out of 0 found this helpful</span>
+</small>
+</div>
+<div class="article-more-questions">
+          Have more questions? <a href="/hc/en-us/requests/new">Submit a request</a>
+</div>
+<div class="article-return-to-top">
+<a href="#article-container">
+            Return to top
+            <svg aria-hidden="true" class="article-return-to-top-icon" focusable="false" height="20" viewbox="0 0 12 12" width="20" xmlns="http://www.w3.org/2000/svg">
+<path d="M3 4.5l2.6 2.6c.2.2.5.2.7 0L9 4.5" fill="none" stroke="currentColor" stroke-linecap="round"></path>
+</svg>
+</a>
+</div>
+</footer>
+<div class="article-relatives">
+<div data-recent-articles=""></div>
+<section class="related-articles">
+<h2 class="related-articles-title">Related articles</h2>
+<ul>
+<li>
+<a href="/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCBLdBdRhEjoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCJK%2BIdVhEjoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSJxL2hjL2VuLXVzL2FydGljbGVzLzIwMjExMzc4MjgxNzQ2LVdoeS13b3VsZC1zb21lb25lLWJ1eS1wcm9kdWN0cy1mcm9tLW1lLXdoZW4tdGhleS1jYW4tanVzdC1wcmludC1ldmVyeXRoaW5nBjsIVDoJcmFua2kG--a5775e5f9e6eb6c4ba48211f38a5147702ee7799" rel="nofollow">Why would someone buy products from me when they can just print everything?</a>
+</li>
+<li>
+<a href="/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCJId19BhEjoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCJK%2BIdVhEjoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSJLL2hjL2VuLXVzL2FydGljbGVzLzIwMjExMzI0ODg2NDE4LUhvdy13aWxsLXlvdS1oZWxwLW1lLWFuZC1teS1idXNpbmVzcwY7CFQ6CXJhbmtpBw%3D%3D--ed93e1cc9aa2a8aa026c39a2991549907b7a709c" rel="nofollow">How will you help me and my business?</a>
+</li>
+<li>
+<a href="/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCJL5EtNhEjoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCJK%2BIdVhEjoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSIBhi9oYy9lbi11cy9hcnRpY2xlcy8yMDIxMTM2MjM2Mzc5NC1XaGF0LWlmLUktd2FudC10by1zZWxsLWNhcmRzLW92ZXItdGhlLWNvdW50ZXItYW5kLW5vdC11c2UteW91ci1tYXJrZXRwbGFjZS10by1hdm9pZC1mZWVzLWZvci1leGFtcGxlBjsIVDoJcmFua2kI--a51a4fdb1d7c2c29899b5d4f3376b91a332ef461" rel="nofollow">What if I want to sell cards over the counter and not use your marketplace? (to avoid fees, for example)</a>
+</li>
+<li>
+<a href="/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCJJA5NFhEjoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCJK%2BIdVhEjoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSJjL2hjL2VuLXVzL2FydGljbGVzLzIwMjExMzQyNTI0NTYyLUlzLUVxdWlub3gtZ29pbmctdG8tc2VsbC1jYXJkcy1ib29zdGVycy1kaWdpdGFsLWJvb3N0ZXJzLWV0YwY7CFQ6CXJhbmtpCQ%3D%3D--6c42b03dc82a6bcc452bbfb6e155d699f17babe6" rel="nofollow">Is Equinox going to sell cards, boosters, digital boosters, etc.?</a>
+</li>
+<li>
+<a href="/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCJKq6M5hEjoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCJK%2BIdVhEjoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSI%2FL2hjL2VuLXVzL2FydGljbGVzLzIwMjExMjkyNDgyMTk0LUhvdy1jYW4tSS1vcmRlci10aGUtZ2FtZQY7CFQ6CXJhbmtpCg%3D%3D--1c7a971678eabee0e313d5f605abe0b6f1534788" rel="nofollow">How can I order the game?</a>
+</li>
+</ul>
+</section>
+</div>
+<div class="article-comments" id="article-comments">
+<section class="comments">
+<header class="comment-overview">
+<h2 class="comment-heading">
+                Comments
+              </h2>
+<p class="comment-callout">0 comments</p>
+</header>
+<ul class="comment-list" id="comments">
+</ul>
+<p class="comment-callout">Article is closed for comments.</p>
+</section>
+</div>
+</article>
+</div>
+</div>
+</main>
+<footer class="footer">
+<div class="footer-inner">
+<a href="/hc/en-us" title="Home">Altered TCG - Explore the Unexpected</a>
+<div class="footer-language-selector">
+</div>
+</div>
+</footer>
+<!-- / -->
+<script src="//static.zdassets.com/hc/assets/en-us.a42da301dcb0a9060606.js"></script>
+<script data-auth-origin="16711686822674,true,true" data-brand-id="16711686822674" data-locale="en-us" data-return-to="https://support.altered.gg/hc/en-us/articles/20211396886162-I-m-still-a-bit-skeptical-got-anything-else-to-say" data-theme="hc" src="https://alteredtcg-exploretheunexpected.zendesk.com/auth/v2/host/without_iframe.js"></script>
+<script type="text/javascript">
+  /*
+
+    Greetings sourcecode lurker!
+
+    This is for internal Zendesk and legacy usage,
+    we don't support or guarantee any of these values
+    so please don't build stuff on top of them.
+
+  */
+
+  HelpCenter = {};
+  HelpCenter.account = {"subdomain":"alteredtcg-exploretheunexpected","environment":"production","name":"Altered TCG - Explore the Unexpected"};
+  HelpCenter.user = {"identifier":"da39a3ee5e6b4b0d3255bfef95601890afd80709","email":null,"name":"","role":"anonymous","avatar_url":"https://assets.zendesk.com/hc/assets/default_avatar.png","is_admin":false,"organizations":[],"groups":[]};
+  HelpCenter.internal = {"asset_url":"//static.zdassets.com/hc/assets/","web_widget_asset_composer_url":"https://static.zdassets.com/ekr/snippet.js","current_session":{"locale":"en-us","csrf_token":null,"shared_csrf_token":null},"settings":{},"usage_tracking":{"event":"article_viewed","data":"BAh7CDoLbG9jYWxlSSIKZW4tdXMGOgZFVDoPYXJ0aWNsZV9pZGwrCJK+IdVhEjoKX21ldGF7DDoPYWNjb3VudF9pZGkEjCcvAToTaGVscF9jZW50ZXJfaWRsKwiS5+WbYBI6DWJyYW5kX2lkbCsIEhso/jIPOgx1c2VyX2lkMDoTdXNlcl9yb2xlX25hbWVJIg5BTk9OWU1PVVMGOwZUOwBJIgplbi11cwY7BlQ6GmFub255bW91c190cmFja2luZ19pZDA=--3e07274ecd354019d25e967bbfeb89597c063d3e","url":"https://support.altered.gg/hc/activity"},"current_record_id":"20211396886162","current_record_url":"/hc/en-us/articles/20211396886162-I-m-still-a-bit-skeptical-got-anything-else-to-say","current_record_title":"I’m still a bit skeptical… got anything else to say?","search_results_count":null,"current_text_direction":"ltr","current_brand":{"id":16711686822674,"account_id":19867532,"name":"Altered TCG - Explore the Unexpected","active":true,"deleted_at":null,"created_at":"2024-01-30T14:53:57Z","updated_at":"2024-07-28T12:27:18Z","route_id":17671549,"signature_template":"{{agent.name}}\r\n{{agent.signature}}\r\n![Equinox](https://support.altered.gg/attachments/token/ynKIIl9xN7hokPZb51GZjNNeK/?name=unnamed+%286%29.png)"},"current_brand_url":"https://alteredtcg-exploretheunexpected.zendesk.com","current_host_mapping":"support.altered.gg","current_path":"/hc/en-us/articles/20211396886162-I-m-still-a-bit-skeptical-got-anything-else-to-say","authentication_domain":"https://alteredtcg-exploretheunexpected.zendesk.com","show_autocomplete_breadcrumbs":false,"user_info_changing_enabled":false,"has_user_profiles_enabled":true,"has_end_user_attachments":true,"user_aliases_enabled":false,"has_anonymous_kb_voting":false,"has_multi_language_help_center":true,"show_at_mentions":false,"embeddables_config":{"embeddables_web_widget":false,"embeddables_connect_ipms":false},"base_domain":"zendesk.com","answer_bot_subdomain":"static","manage_content_url":"https://support.altered.gg/hc/en-us","arrange_content_url":"https://support.altered.gg/hc/admin/arrange_contents?locale=en-us","general_settings_url":"https://support.altered.gg/hc/admin/general_settings?locale=en-us","user_segments_url":"https://alteredtcg-exploretheunexpected.zendesk.com/knowledge/user_segments?brand_id=16711686822674","has_gather":true,"has_ckeditor":true,"has_community_enabled":false,"has_community_badges":true,"has_community_post_content_tagging":false,"has_gather_content_tags":true,"has_guide_content_tags":true,"has_user_segments":true,"has_answer_bot_web_form_enabled":false,"has_edit_user_profile_v2":false,"has_garden_modals":false,"billing_url":"/access/return_to?return_to=https%3A%2F%2Falteredtcg-exploretheunexpected.zendesk.com%2Fadmin%2Fbilling%2Fsubscription","is_account_owner":false,"theming_cookie_key":"hc-da39a3ee5e6b4b0d3255bfef95601890afd80709-2-preview","is_preview":false,"has_alternate_templates":false,"arrange_articles_url":"https://alteredtcg-exploretheunexpected.zendesk.com/knowledge/arrange?brand_id=16711686822674","article_verification_url":"https://alteredtcg-exploretheunexpected.zendesk.com/knowledge/verification?brand_id=16711686822674","has_article_verification":false,"guide_language_settings_url":"https://support.altered.gg/hc/admin/language_settings?locale=en-us","docs_importer_url":"https://alteredtcg-exploretheunexpected.zendesk.com/knowledge/import_articles?brand_id=16711686822674","content_tags_url":"https://alteredtcg-exploretheunexpected.zendesk.com/knowledge/content_tags?brand_id=16711686822674","community_badges_url":"https://alteredtcg-exploretheunexpected.zendesk.com/knowledge/community_badges?brand_id=16711686822674","community_settings_url":"https://alteredtcg-exploretheunexpected.zendesk.com/knowledge/community_settings?brand_id=16711686822674","gather_plan_state":"subscribed","search_settings_url":"https://alteredtcg-exploretheunexpected.zendesk.com/knowledge/search_settings?brand_id=16711686822674","has_multibrand_search_in_plan":false,"has_search_settings_in_plan":true,"theming_api_version":4,"theming_settings":{"brand_color":"rgba(3, 137, 190, 1)","brand_text_color":"#FFFFFF","text_color":"#2F3941","link_color":"#1F73B7","hover_link_color":"#0F3554","visited_link_color":"#9358B0","background_color":"#FFFFFF","heading_font":"-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif","text_font":"-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif","logo":"/hc/theming_assets/01J3F991AGXJQFYYZ8X8DT8VQJ","show_brand_name":true,"favicon":"/hc/theming_assets/01J3F991AGXJQFYYZ8X8DT8VQJ","homepage_background_image":"/hc/theming_assets/01J32HCYHE8C3TZB8Z08HY2G0F","community_background_image":"/hc/theming_assets/01J32FTNN2X2JHEEEESGNERNTJ","community_image":"/hc/theming_assets/01J32FDFS50MRVMSTQ3Z51DEB1","instant_search":true,"scoped_kb_search":true,"scoped_community_search":true,"show_recent_activity":true,"show_articles_in_section":true,"show_article_author":true,"show_article_comments":true,"show_follow_article":true,"show_recently_viewed_articles":true,"show_related_articles":true,"show_article_sharing":true,"show_follow_section":true,"show_follow_post":true,"show_post_sharing":true,"show_follow_topic":true,"request_list_beta":false},"has_pci_credit_card_custom_field":false,"current_brand_id":16711686822674,"help_center_restricted":false,"current_brand_active":true,"is_assuming_someone_else":false,"flash_messages":[],"user_photo_editing_enabled":true,"has_docs_importer":false,"user_preferred_locale":"en-us","base_locale":"en-us","has_end_user_session_renewal":true,"has_user_session_cookie_enabled":false,"has_end_user_2fa":true,"has_custom_statuses_enabled":true,"has_generative_answers_in_help_center":false,"has_hc_generative_answers_setting_enabled":false,"version":"v24907"};
+</script>
+<script src="//static.zdassets.com/hc/assets/hc_enduser-cba87a9d287b1205165acc6ce4de5364.js"></script>
+<script src="/hc/theming_assets/19867532/16711686822674/script.js?digest=20317095476498" type="text/javascript"></script>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'8b72fb15ae1d5a25',t:'MTcyNDMzMDk0NC4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
